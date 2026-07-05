@@ -14,10 +14,10 @@ export function Subscribe() {
     <main>
       <div className="container">
         <div className="subscribe-page">
-          <h1>Nueva reflexión cada semana.</h1>
+          <h1>Nueva reflexión cada lunes.</h1>
           <p>
-            Sin espectáculo. Sin fórmulas. Solo pensamiento cristiano honesto
-            sobre la vida ordinaria. Gratis, siempre.
+            Pensamiento cristiano honesto
+            sobre la vida ordinaria.
           </p>
 
           <div className="subscribe-form">
@@ -39,11 +39,8 @@ export function Subscribe() {
           <div className="subscribe-channels">
             <h2>También en</h2>
             <div className="channel-list">
-              <a href="https://x.com/tuusuario" target="_blank" rel="noopener noreferrer" className="channel-link">
+              <a href="https://x.com/fromchurchpew" target="_blank" rel="noopener noreferrer" className="channel-link">
                 <span className="channel-link-arrow">→</span> X / Twitter
-              </a>
-              <a href="https://instagram.com/tuusuario" target="_blank" rel="noopener noreferrer" className="channel-link">
-                <span className="channel-link-arrow">→</span> Instagram
               </a>
               <a href="https://bancodelaiglesia.substack.com/feed" target="_blank" rel="noopener noreferrer" className="channel-link">
                 <span className="channel-link-arrow">→</span> Feed RSS

@@ -7,8 +7,7 @@ export function Footer() {
         </span>
         <div className="footer-links">
           <a href="https://bancodelaiglesia.substack.com" target="_blank" rel="noopener noreferrer">Substack</a>
-          <a href="https://x.com/tuusuario" target="_blank" rel="noopener noreferrer">X</a>
-          <a href="https://instagram.com/tuusuario" target="_blank" rel="noopener noreferrer">Instagram</a>
+          <a href="https://x.com/fromchurchpew" target="_blank" rel="noopener noreferrer">X</a>
         </div>
       </div>
     </footer>

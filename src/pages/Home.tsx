@@ -21,7 +21,7 @@ export function Home() {
           </div>
           <p style={{ color: "var(--text-muted)", fontSize: "0.9375rem", marginTop: "2.5rem", maxWidth: "480px" }}>
             Reflexiones para el creyente ordinario. Teología reformada aplicada
-            a la vida que no aparece en los testimonios del domingo. Sin espectáculo. Sin fórmulas.
+            a la vida que no aparece en los testimonios del domingo.
           </p>
         </div>
 
