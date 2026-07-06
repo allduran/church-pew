@@ -428,6 +428,29 @@ nav a.active { color: var(--text); border-bottom: 2px solid var(--red); }
 }
 .article-body li { margin-bottom: 0.4rem; }
 
+.article-body img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem 0;
+}
+
+.article-body .image-link-expand-icon,
+.article-body [class*="expand"],
+.article-body button {
+  display: none !important;
+}
+
+.article-body .image-caption {
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  color: var(--text-muted);
+  letter-spacing: 0.06em;
+  margin-top: -1rem;
+  margin-bottom: 1.5rem;
+  font-style: normal;
+}
+
 /* ── Home 2 cols ─────────────────────────────────── */
 .home-main-grid {
   display: grid;
